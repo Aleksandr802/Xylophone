@@ -1,9 +1,8 @@
 # Xylophone
 
 
-Play sound using AVFoundation and AVAudioPlayer.
-Functions and methods in Swift.
-The ViewController lifecycle.
-Error handling.
-Code refactoring.
-Basic debugging.
+* Play sound using AVFoundation and AVAudioPlayer.
+* ViewController lifecycle.
+* Error handling.
+* Code refactoring.
+* Basic debugging.
